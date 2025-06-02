@@ -1,0 +1,29 @@
+# ===== Unity Generated Folders =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ===== Visual Studio / IDE =====
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ===== OS Files =====
+Thumbs.db
+.DS_Store
+
+# ===== Altri (esempi) =====
+# Se hai cartelle di plugin o asset di terze parti che NON vuoi mettere su Git, aggiungile qui:
+# Assets/Plugins/ThirdParty/
+# Packages/com.mio.plugin/ThirdPartyAssets/
