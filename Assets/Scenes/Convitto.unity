@@ -135,6 +135,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: convitto_secondopiano_uvs
       objectReference: {fileID: 0}
+    - target: {fileID: -6922505462172571552, guid: 177ddb4f56052b5409a31aa834a6de81,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 977dba073f1c9e842ae8a4cc979a004b, type: 2}
+    - target: {fileID: -185151081393018656, guid: 177ddb4f56052b5409a31aa834a6de81,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0d4d4cc64e697bc469681e629dbb0702, type: 2}
+    - target: {fileID: 698795549444080849, guid: 177ddb4f56052b5409a31aa834a6de81,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f0e5eabde9639884b947dd855f1018a7, type: 2}
     - target: {fileID: 3447742079981357586, guid: 177ddb4f56052b5409a31aa834a6de81,
         type: 3}
       propertyPath: m_RootOrder
@@ -205,6 +220,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6867182398202880408, guid: 177ddb4f56052b5409a31aa834a6de81,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ba5b002cccaff2c4b8c711a6c0607714, type: 2}
+    - target: {fileID: 7599241662894467209, guid: 177ddb4f56052b5409a31aa834a6de81,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c2359b9fd3e22664a9f311b9394318b8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 3150474306388093854, guid: 177ddb4f56052b5409a31aa834a6de81,
     type: 3}
@@ -5247,6 +5272,156 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 1050908021570271116, guid: dd94f2d40b714184b8feb18753ada714, type: 3}
+--- !u!1001 &895881444
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 19494098}
+    m_Modifications:
+    - target: {fileID: -8098169881513260187, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_Name
+      value: console
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447742079981357586, guid: 893b9e666d3ae9641af19495f2d891e5,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 3150474306388093854, guid: 893b9e666d3ae9641af19495f2d891e5,
+    type: 3}
+--- !u!1 &895881445 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8098169881513260187, guid: 893b9e666d3ae9641af19495f2d891e5,
+    type: 3}
+  m_PrefabInstance: {fileID: 895881444}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &895881446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 895881445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a1c437d99c9a4616adbe21f3ffa0e18, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactText: Interact
+  textFontOverride:
+    overrideFont: 0
+    font: {fileID: 0}
+    material: {fileID: 0}
+  iconType: 0
+  icon: {fileID: 0}
+  interactiveRadius: 5
+  visibilityRadius: 10
+  onInteractEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events:
+      - questID: 2
+        questEventType: 4
+        taskID: 2
+  onEnterEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
+  onExitEvent:
+    id: 0
+    unityEventIsSynced: 0
+    unityEvent:
+      m_PersistentCalls:
+        m_Calls: []
+    animatorEvent:
+      events: []
+    questEvent:
+      events: []
 --- !u!1001 &904201521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7909,7 +8084,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1260486464}
   m_LocalRotation: {x: 0, y: 0.9995798, z: 0, w: -0.028987145}
-  m_LocalPosition: {x: -32.692, y: 5, z: -25.118}
+  m_LocalPosition: {x: -32.692, y: 20.64, z: -25.118}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8479,7 +8654,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 19494098}
-  m_RootOrder: 28
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &1379913734
 AudioSource:
@@ -8697,7 +8872,7 @@ MonoBehaviour:
   description: Trova il nastro
   startAutomatically: 1
   saveUserProgress: 0
-  tasksAreOrdered: 1
+  tasksAreOrdered: 0
   celebrateOnComplete: 1
   hideToastMessageOnComplete: 0
   questRewards: []
@@ -8706,8 +8881,7 @@ MonoBehaviour:
     name: Trova il nastro
     type: 0
     progressSteps: 0
-    taskMarkers:
-    - {fileID: 927000027}
+    taskMarkers: []
     onStartedEvent:
       id: 0
       unityEventIsSynced: 0
@@ -8726,19 +8900,32 @@ MonoBehaviour:
       unityEventIsSynced: 0
       unityEvent:
         m_PersistentCalls:
-          m_Calls:
-          - m_Target: {fileID: 1379913734}
-            m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-            m_MethodName: Play
-            m_Mode: 1
-            m_Arguments:
-              m_ObjectArgument: {fileID: 0}
-              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-              m_IntArgument: 0
-              m_FloatArgument: 0
-              m_StringArgument: 
-              m_BoolArgument: 0
-            m_CallState: 2
+          m_Calls: []
+      animatorEvent:
+        events: []
+      questEvent:
+        events: []
+    onPreviouslyCompleted:
+      id: 0
+      unityEventIsSynced: 0
+      unityEvent:
+        m_PersistentCalls:
+          m_Calls: []
+      animatorEvent:
+        events: []
+      questEvent:
+        events: []
+  - id: 2
+    name: Trova il mangianastri
+    type: 0
+    progressSteps: 0
+    taskMarkers: []
+    onStartedEvent:
+      id: 0
+      unityEventIsSynced: 0
+      unityEvent:
+        m_PersistentCalls:
+          m_Calls: []
       animatorEvent:
         events: []
       questEvent:
@@ -8746,6 +8933,16 @@ MonoBehaviour:
         - questID: 2
           questEventType: 4
           taskID: 1
+    onCompletedEvent:
+      id: 0
+      unityEventIsSynced: 0
+      unityEvent:
+        m_PersistentCalls:
+          m_Calls: []
+      animatorEvent:
+        events: []
+      questEvent:
+        events: []
     onPreviouslyCompleted:
       id: 0
       unityEventIsSynced: 0
@@ -8772,13 +8969,13 @@ MonoBehaviour:
     unityEvent:
       m_PersistentCalls:
         m_Calls:
-        - m_Target: {fileID: 0}
-          m_TargetAssemblyTypeName: 
-          m_MethodName: 
+        - m_Target: {fileID: 1379913734}
+          m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+          m_MethodName: Play
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: 
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
             m_IntArgument: 0
             m_FloatArgument: 0
             m_StringArgument: 
