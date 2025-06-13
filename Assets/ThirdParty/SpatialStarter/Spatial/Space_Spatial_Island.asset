@@ -18,8 +18,8 @@ MonoBehaviour:
   thumbnail: {fileID: 2800000, guid: 4cfd0f19fb54bf04dbcb6e2ab5f11276, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: 78dd5a1cb40ec0541b2efb102aabd951,
     type: 2}
-  worldID: poswfh4c2r03531ylrdvq
-  scene: {fileID: 102900000, guid: 2fc9a43d0e565d9449f5c1c44aa2d5e7, type: 3}
+  worldID: dlhparrj6w2db0u1e7gas
+  scene: {fileID: 102900000, guid: cc9c8b80f06af384896542437898e93d, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   networkPrefabs: []
